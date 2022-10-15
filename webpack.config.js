@@ -6,6 +6,7 @@ module.exports = {
   entry: {
     index: "./src/index.js",
     domManip: "./src/domManip.js",
+    inputBar: "./src/inputBar.js"
   },
   output: {
     filename: "[name].bundle.js",
